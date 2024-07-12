@@ -30,7 +30,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "8901269c6307e8d93993578286ac0edf7f195079ffff5ebdeea6a59ffb7e36bc"
 
 [[package]]
-name = "arc-swap"
+name = "arc-swap-for-cow"
 version = "1.7.1"
 dependencies = [
  "adaptive-barrier",

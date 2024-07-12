@@ -1,5 +1,5 @@
 [package]
-name = "arc-swap"
+name = "arc-swap-for-cow"
 version = "1.7.1"
 authors = ["Michal 'vorner' Vaner <vorner@vorner.cz>"]
 description = "Atomically swappable Arc"
